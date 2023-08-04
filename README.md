@@ -1,6 +1,7 @@
-# untitled
+# Engaz App
 
-A new Flutter project.
+A flutter To do list project that helps you track, add, and delete your daily progress of your to do list.
+Written in MVC Architecture and in fully clean code.
 
 ## Getting Started
 
